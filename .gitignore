@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+.eggs/
+build/
+dist/
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Experiment outputs
+results/
+output/
+outputs/
+checkpoints/
+*.pt
+*.ckpt
+*.safetensors
+*.bin
+wandb/
+runs/
+logs/
+*.log
+
+# Local config
+.env.local
+*.local
+
+# Cache / model downloads
+.cache/
+hf_cache/
+huggingface/
+models/
+
+# Misc
+*.tmp
+*.bak
