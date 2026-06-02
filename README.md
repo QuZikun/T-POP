@@ -94,7 +94,7 @@ grep "ArmoRM Score:" <output_dir>/result.txt
 
 ## BibTex
 
-If you find our work useful, please consider citing:
+If you find our paper / code helpful, please consider citing our work 📝 and starring this repository ⭐️!
 
 ```
 @misc{qu2025tpoptesttimepersonalizationonline,
